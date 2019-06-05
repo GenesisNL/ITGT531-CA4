@@ -63,4 +63,4 @@ namespace simple_memory {
 
 }
 
-#endif /* simple_memory_pool_hpp */
+#endif /* MemoryPoolh */
